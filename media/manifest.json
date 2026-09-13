@@ -1,0 +1,296 @@
+{
+ "the-aura-house.png": {
+  "w": 240,
+  "h": 186,
+  "bytes": 29637,
+  "from": "embedded"
+ },
+ "immersive-spinning-sessions-inside-full-wraparou.jpg": {
+  "w": 1456,
+  "h": 820,
+  "bytes": 101505,
+  "from": "embedded"
+ },
+ "a-full-room-in-red-light-recovery.jpg": {
+  "w": 1800,
+  "h": 1350,
+  "bytes": 457874,
+  "from": "web/a-full-room-in-red-light-recovery.jpg"
+ },
+ "immersive-spinning-in-progress.jpg": {
+  "w": 540,
+  "h": 730,
+  "bytes": 30034,
+  "from": "embedded"
+ },
+ "sound-healing-at-a-forevermark-by-de-beers-morni.jpg": {
+  "w": 360,
+  "h": 640,
+  "bytes": 20369,
+  "from": "embedded"
+ },
+ "guided-meditation-at-a-forevermark-by-de-beers-m.jpg": {
+  "w": 576,
+  "h": 1024,
+  "bytes": 68292,
+  "from": "embedded"
+ },
+ "guests-resting-around-the-candle-ring-at-a-forev.jpg": {
+  "w": 360,
+  "h": 640,
+  "bytes": 20420,
+  "from": "embedded"
+ },
+ "red-light-recovery-in-progress.jpg": {
+  "w": 840,
+  "h": 560,
+  "bytes": 27500,
+  "from": "embedded"
+ },
+ "immersive-spinning.jpg": {
+  "w": 1350,
+  "h": 1800,
+  "bytes": 584290,
+  "from": "web/immersive-spinning.jpg"
+ },
+ "yoga-with-live-music.jpg": {
+  "w": 1350,
+  "h": 1800,
+  "bytes": 663631,
+  "from": "web/yoga-with-live-music.jpg"
+ },
+ "the-recovery-floor.jpg": {
+  "w": 1350,
+  "h": 1800,
+  "bytes": 421982,
+  "from": "web/the-recovery-floor.jpg"
+ },
+ "the-group-after-an-immersive-spinning-session-in.jpg": {
+  "w": 560,
+  "h": 750,
+  "bytes": 47458,
+  "from": "embedded"
+ },
+ "sound-healing-with-chimes-over-the-circle-foreve.jpg": {
+  "w": 560,
+  "h": 746,
+  "bytes": 55526,
+  "from": "embedded"
+ },
+ "guests-resting-around-the-candle-ring-forevermar.jpg": {
+  "w": 560,
+  "h": 746,
+  "bytes": 60607,
+  "from": "embedded"
+ },
+ "the-sound-healer-with-chimes-by-the-window-forev.jpg": {
+  "w": 560,
+  "h": 746,
+  "bytes": 47251,
+  "from": "embedded"
+ },
+ "an-immersive-spinning-night-filmed-at-the-event.jpg": {
+  "w": 560,
+  "h": 746,
+  "bytes": 52703,
+  "from": "embedded"
+ },
+ "a-yoga-session-held-to-live-sitar-filmed-at-the-.jpg": {
+  "w": 560,
+  "h": 746,
+  "bytes": 32246,
+  "from": "embedded"
+ },
+ "a-sound-healing-and-breathwork-morning-for-forev.jpg": {
+  "w": 432,
+  "h": 768,
+  "bytes": 47797,
+  "from": "embedded"
+ },
+ "forevermark-by-de-beers-at-soho-house-mumbai-the.jpg": {
+  "w": 576,
+  "h": 1024,
+  "bytes": 77700,
+  "from": "embedded"
+ },
+ "forevermark-by-de-beers-at-soho-house-mumbai-the-2.jpg": {
+  "w": 576,
+  "h": 1024,
+  "bytes": 44761,
+  "from": "embedded"
+ },
+ "forevermark-by-de-beers-at-soho-house-mumbai-aft.jpg": {
+  "w": 576,
+  "h": 1024,
+  "bytes": 59473,
+  "from": "embedded"
+ },
+ "reetu-jain-founder-of-theweddingwale-speaking-af.jpg": {
+  "w": 360,
+  "h": 640,
+  "bytes": 19235,
+  "from": "embedded"
+ },
+ "himani-chandna-vice-president-at-forevermark-spe.jpg": {
+  "w": 360,
+  "h": 640,
+  "bytes": 21246,
+  "from": "embedded"
+ },
+ "pooja-shah-founder-of-the-aura-house.jpg": {
+  "w": 760,
+  "h": 950,
+  "bytes": 86810,
+  "from": "embedded"
+ },
+ "backdrop.jpg": {
+  "w": 1800,
+  "h": 1350,
+  "bytes": 457874,
+  "from": "web/backdrop.jpg"
+ },
+ "src_hero.mp4": {
+  "bytes": 1773751,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/src_hero.mp4"
+ },
+ "src_red.mp4": {
+  "bytes": 303689,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/src_red.mp4"
+ },
+ "src_spin.mp4": {
+  "bytes": 985676,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/src_spin.mp4"
+ },
+ "src_reel.mp4": {
+  "bytes": 1913093,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/src_reel.mp4"
+ },
+ "src_fm.mp4": {
+  "bytes": 2405402,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/src_fm.mp4"
+ },
+ "src_fmb.mp4": {
+  "bytes": 612925,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/src_fmb.mp4"
+ },
+ "src_fma.mp4": {
+  "bytes": 298078,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/src_fma.mp4"
+ },
+ "src_t1.mp4": {
+  "bytes": 12444436,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast/src_t1.mp4"
+ },
+ "src_t2.mp4": {
+  "bytes": 8904816,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast/src_t2.mp4"
+ },
+ "src_yoga.mp4": {
+  "bytes": 1205381,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/src_yoga.mp4"
+ },
+ "tm_IMG_9296.mp4": {
+  "bytes": 7767461,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9296.mp4"
+ },
+ "tm_IMG_9296.jpg": {
+  "bytes": 36765,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9296.jpg"
+ },
+ "tm_IMG_9301.mp4": {
+  "bytes": 15704845,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9301.mp4"
+ },
+ "tm_IMG_9301.jpg": {
+  "bytes": 33865,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9301.jpg"
+ },
+ "tm_IMG_9170.mp4": {
+  "bytes": 5536438,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9170.mp4"
+ },
+ "tm_IMG_9170.jpg": {
+  "bytes": 32783,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9170.jpg"
+ },
+ "tm_IMG_9185.mp4": {
+  "bytes": 7529652,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9185.mp4"
+ },
+ "tm_IMG_9185.jpg": {
+  "bytes": 44447,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9185.jpg"
+ },
+ "tm_IMG_9177.mp4": {
+  "bytes": 11544764,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9177.mp4"
+ },
+ "tm_IMG_9177.jpg": {
+  "bytes": 28227,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9177.jpg"
+ },
+ "tm_IMG_9293.mp4": {
+  "bytes": 8873681,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9293.mp4"
+ },
+ "tm_IMG_9293.jpg": {
+  "bytes": 36572,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9293.jpg"
+ },
+ "tm_IMG_9171.mp4": {
+  "bytes": 5400963,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9171.mp4"
+ },
+ "tm_IMG_9171.jpg": {
+  "bytes": 36441,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9171.jpg"
+ },
+ "tm_IMG_9179.mp4": {
+  "bytes": 4057724,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9179.mp4"
+ },
+ "tm_IMG_9179.jpg": {
+  "bytes": 22111,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9179.jpg"
+ },
+ "tm_IMG_9176.mp4": {
+  "bytes": 4341474,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9176.mp4"
+ },
+ "tm_IMG_9176.jpg": {
+  "bytes": 33319,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9176.jpg"
+ },
+ "tm_IMG_9174.mp4": {
+  "bytes": 3307253,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9174.mp4"
+ },
+ "tm_IMG_9174.jpg": {
+  "bytes": 27988,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9174.jpg"
+ },
+ "tm_IMG_9172.mp4": {
+  "bytes": 4331413,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9172.mp4"
+ },
+ "tm_IMG_9172.jpg": {
+  "bytes": 33790,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9172.jpg"
+ },
+ "tm_IMG_1260.mp4": {
+  "bytes": 4400994,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_1260.mp4"
+ },
+ "tm_IMG_1260.jpg": {
+  "bytes": 31386,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_1260.jpg"
+ },
+ "tm_IMG_9294.mp4": {
+  "bytes": 3281240,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/fast2/IMG_9294.mp4"
+ },
+ "tm_IMG_9294.jpg": {
+  "bytes": 23974,
+  "from": "/tmp/claude-0/-home-user-cmo/8aeab872-ffb7-5036-b7f3-afa3527364fc/scratchpad/tm/poster3/IMG_9294.jpg"
+ }
+}
